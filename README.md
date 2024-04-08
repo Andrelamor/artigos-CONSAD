@@ -38,3 +38,7 @@ clareza do objetivo;
 qualidade metodológica; 
 presença de resultados; e 
 contribuição ao avanço da gestão pública.
+
+## trabalhos anteriores: exemplos
+
+[A AUTOMAÇÃO DE PROCESSOS NO SERVIÇO PÚBLICO COM A SOLUÇÃO RPA - ROBOTIC PROCESS AUTOMATION.](https://www.even3.com.br/anais/xii-congresso-consad-de-gestao-publica-312346/631940-a-automacao-de-processos-no-servico-publico-com-a-solucao-rpa---robotic-process-automation/)
