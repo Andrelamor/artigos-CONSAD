@@ -12,14 +12,14 @@ O resumo deverá versar sobre uma das áreas temáticas abaixo:
 
 - Gestão de Pessoas. 
 - Saúde e segurança do servidor.
-- Transformação Digital.
+- [ ] Transformação Digital.
 - Compras Públicas.
-- Ciência de Dados.
+- [ ] Ciência de Dados.
 - Gestão de Ativos.
 - Comunicação Institucional. 
 - Escolas de Governo.
 - Responsabilidade Ambiental, Social e Governança (ESG).
-- Inteligência Artificial.
+- [ ] Inteligência Artificial.
 
 O proponente deverá selecionar a área temática no sistema de submissão.
 Os trabalhos deverão ter no máximo 4 (quatro) autores.
