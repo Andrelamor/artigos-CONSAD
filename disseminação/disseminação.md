@@ -1,61 +1,16 @@
-# Disseminação
+O projeto AutomatizaMG busca utilizar a automatização de processos, a inteligência artificial e outras tendências de tecnologia com o objetivo de desburocratizar e simplificar processos. Uma das principais ferramentas utilizadas é a platforma power da Microsoft, especialmente o Power Automate. Essa ferramenta se insere na modalidade 'low-code', que exige pouco ou nenhum conhecimento prévio em programação. Uma premissa desse projeto e também um desafio, é fazer com que as ferramentas de automatização sejam acessíveis ao maior número possível de servidores públicos. Afinal, mesmo sendo 'low-code', trata-se de ferramentas de programação, e compartilhar seu uso nem sempre é intuitivo. 
 
-## A ideia
+Nesse sentido, a criação de capacidades nas equipes de trabalho é imprescindível, e algumas iniciativas de disseminação foram lançadas para esse fim: curos presenciais e EaD; site do projeto; demonstrações em reuniões estratégicas; e projetos de imersão. Os cursos presenciais e projetos de imersão já ocorrem desde 2023, com números de expressão: foram 27 protótipos de automatização criados, com 334 horas reduzidas, e R$1,3 milhões arrecadados, que antes eram processados manualmente e levavam mais tempo de trabalho. As demais iniciativas estão ocorrendo em 2024, especialmente a partir do evento formal de lançamento do projeto¹, em 09/04/24. Nesse evento, foram lançados o curso EaD e o site do evento.
 
-- Utilizar a automatização de processos, a inteligência artificial e outras tendências de tecnologia com o objetivos de desburocratizar e simplificar processos.
+Os cursos presenciais ocorreram em 2023 e foram realizados sob demanda, em salas de informática específicas, com máquinas para uma ou duas pessoas. O escopo do curso presencial era fazer uma breve demonstração das possibilidades de automatização, o mais próximo possível à realidade de algum processo repetitivo do órgão ou setor dos participantes. Foram oferecidos 22 cursos nessa modalidade, com 298 servidores capacitados. 
 
-## O problema
+A grande e persistente demanda por esses cursos provocou a elaboração e disponibilização de um curso totalmente online, na plataforma Moodle, disponível a qualquer servidor público². O escopo desse curso abrange a realização de um protótipo de robô que seja necessário por muitos setores distintos. Assim, o objeto escolhido foi a criação de processo e envio de documento no sistema SEI - que pode ser amplamente reutilizado e adaptado para necessidades similares. Esse curso teve uma edição profissional na gravação de vídeos e repartição do conteúdo em vídeos de 20 minutos, no máximo. Em cada um desses vídeos, foi ensinado uma pequena parte de um protótipo, com a sua construção simultânea no Power Automate, em pequenos blocos. 
 
-- Como difundir as ferramentas para que o máximo de agentes públicos do poder executivo estadual possa se beneficiar com seu uso?
+Em paralelo ao curso EaD, o site do projeto³ também foi lançado. O seu objetivo é ser o polo de difusão do conhecimento gerado ao longo dos projetos de imersão, e para isso ele conta com: uma biblioteca de robôs reutilizáveis, com vídeos demonstrativos, fluxos e explicações amigáveis de uso; um formulário de captação de demandas de automatização, utilizável pelos órgãos e entidades interessadas; e um blog contendo posts sobre casos comuns de uso das ferramentas. O site também é interativo, com espaços para comentários e avaliações da experiência de navegação e uso pelos usuários.
 
-As iniciativas de disseminação passam por criar capacidades em nível escalar, de diversos modos. 
+Ainda em 2023, foi possível observar resultados expressivos, com um escopo reduzido de projetos de imersão e um número limitado de alunos nos cursos presenciais. A expectativa é a de que esses números possam ser impulsionados com: a disseminação assíncrona online (curso EaD, via Moodle) do curso básico; a disseminação, uso e retroalimentação da biblioteca de robôs; e com a ampliação do número de projetos de imersão. 
 
-## Iniciativas
+1 - https://www.mg.gov.br/planejamento/noticias/governo-de-minas-lanca-projeto-que-visa-melhorar-o-trabalho-dos-servidores-e
+2 - https://www.ead.planejamento.mg.gov.br/course/view.php?id=98
+3 - https://automatiza-mg.github.io/automatizacoes/
 
-- Cursos presenciais 2023
-  - 22 cursos pferecidos
-  - 298 servidores capacitados
-
-- Curso EaD
-  - abrangência: escopo que pode atender à maior parte de órgãos e entidades, no uso de planilha simples e sistema SEI
-  - número e tempo das aulas
-  - edição e explicação dos códigos e interações com as máquinas
-  - edições profissionais
-  - escopo: ações, variáveis, loops, if-else, integração com IA
-
-- Lançamento formal do projeto
-  - rede estratégia, com todas as AESTs do estado, em 18/03/24
-  - SEPLAG, em 25/04/24
-  - para todo o estado, em 09/04/24 
-
-- Site estático com biblioteca de robôs e blog contendo posts com dicas úteis
-  - biblioteca de robôs
-    - visualização atraente e mais prática possível para compartilhar código e a forma de replicá-lo
-    - representação do fluxo
-    - vídeos demonstrativos
-    - possibilidade de comentário em cada página
-  - posts do blog
-  - formulário de recepção, triagem e priorização de demandas de projetos de imersão
-
-- Projetos de imersão (pano de fundo)
-  - SCAP
-  - Trilhas
-  - FJP
-  - PAE
-  - Resultados preliminares dos projetos
-	- 27 robôs criados
-	- 334 horas reduzidas (Explicar métricas antes)
-	- R$ 1,3 milhões arrecadados viabilizados
-
-## Resultados
-
-Em menos de 6 meses, foi possível observar resultados expressivos, com um escopo reduzido de projetos de imersão e um número limitado de alunos nos cursos presenciais. Espera-se que esses números possam ser impulsionados com: a disseminação assíncrona online (curso EaD, via Moodle) do curso básico; a disseminação, uso e retroalimentação da biblioteca de robôs; e com a ampliação do número de projetos de imersão. 
-
-
-
-## quesitos de avaliação
-originalidade;
-qualidade da redação e organização do texto (ortografia, gramática, clareza, objetividade e estrutura formal);
-clareza do objetivo;
-qualidade metodológica;
-presença de resultados; e
